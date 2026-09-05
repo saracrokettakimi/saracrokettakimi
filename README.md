@@ -1,16 +1,104 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**saracrokettakimi/saracrokettakimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Saraç Roket Takımı](assets/sarac-banner.svg)
 
-Here are some ideas to get you started:
+## GÖĞE YERDEN ÇIKILDIĞINI UNUTMA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Takım Rengi](https://img.shields.io/badge/Takım_Rengi-%23e35232-e35232?style=for-the-badge)](#)
+[![Çalışma Alanı](https://img.shields.io/badge/Çalışma_Alanı-Roket_Teknolojileri-e35232?style=for-the-badge)](#)
+[![Takım Yapısı](https://img.shields.io/badge/Takım_Yapısı-Öğrenci_Hobi_Takımı-292929?style=for-the-badge)](#)
+
+</div>
+
+## Biz Kimiz?
+
+Saraç Roket Takımı; roket teknolojilerini yalnızca teoride bırakmayıp tasarlayan, üreten, deneyen ve her uçuştan yeni bir ders çıkaran öğrencilerden oluşan bağımsız bir **hobi roket takımıdır**.
+
+Okul ortamında bir araya geliyor; aviyonik, gömülü yazılım, telemetri, mekanik tasarım ve kurtarma sistemleri üzerine birlikte çalışıyoruz. Yürüttüğümüz projelerle okulumuzun bilim, teknoloji, havacılık ve üretim kültürünü destekliyoruz.
+
+Bizim için her proje; merakı mühendisliğe, fikri donanıma ve ekip çalışmasını gökyüzüne taşıyan yeni bir adımdır.
+
+## 2026 Yarışma Roketimiz — FATİH
+
+```text
+                         /\
+                        /  \
+                       /____\
+                      |  F  |
+                      |  A  |
+                      |  T  |
+                      |  İ  |
+                      |  H  |
+                    __|_____|__
+                   /  |     |  \
+                  /___|_____|___\
+                      /| |\
+                     / | | \
+                    /  | |  \
+                       : :
+                       : :
+                       . .
+```
+
+**FATİH**, 2026 sezonu için geliştirdiğimiz yarışma roketidir. Tasarımından aviyoniğine, üretiminden yer testlerine kadar her adımı takımımızın ortak emeğini taşır.
+
+## Çalışma Alanlarımız
+
+- Özgün uçuş bilgisayarları ve sensör sistemleri
+- Gömülü yazılım ve uçuş algoritmaları
+- RF telemetri ve yer istasyonu yazılımları
+- Bilimsel görev yükleri
+- Mekanik tasarım ve üretim
+- Kurtarma sistemleri ve saha testleri
+
+## Projelerimiz
+
+### Saraç Yer İstasyonu
+
+BabaV8, SkyLogic V2 ve Cevher sistemlerinden gelen telemetriyi izleyen; uçuş verilerini kaydeden ve saha ekibine canlı olarak sunan Windows yer istasyonu yazılımımızdır.
+
+[![Projeyi İncele](https://img.shields.io/badge/Projeyi_İncele-Saraç_Yer_İstasyonu-e35232?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saracrokettakimi/Sarac-Yer-Istasyonu)
+
+### Baba Uçuş Bilgisayarları
+
+Baba serisi; sensör okuma, durum yönetimi, telemetri, veri kaydı ve kurtarma sistemi görevlerini yerine getirmek üzere takımımız tarafından geliştirilen özgün aviyonik altyapımızdır.
+
+### Cevher Görev Yükü
+
+Cevher; uçuş sırasında bilimsel verileri toplayan, filtreleyen, kaydeden ve yer istasyonuna aktaran görev yükü çalışmalarımızın adıdır.
+
+## Kullandığımız Diller
+
+Herkese açık projelerimizin güncel kaynak kodu dağılımı:
+
+| Dil | Oran |
+|---|---:|
+| C++ | 70,7% |
+| C# | 15,3% |
+| C | 11,4% |
+| PowerShell | 2,6% |
+| Batchfile | 0,1% |
+
+![C++](https://img.shields.io/badge/C%2B%2B-70%2C7%25-e35232?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-15%2C3%25-7b3f98?style=for-the-badge&logo=dotnet&logoColor=white)
+![C](https://img.shields.io/badge/C-11%2C4%25-555555?style=for-the-badge&logo=c&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-2%2C6%25-356aa0?style=for-the-badge&logo=powershell&logoColor=white)
+![Batchfile](https://img.shields.io/badge/Batchfile-0%2C1%25-292929?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+## İletişim
+
+Takımımız, projelerimiz ve destek çalışmaları hakkında bizimle iletişime geçebilirsiniz.
+
+**Telefon:** [+90 533 136 49 70](tel:+905331364970)
+
+---
+
+<div align="center">
+
+### Saraç Roket Takımı
+
+**Tasarla · Üret · Test Et · Uçur**
+
+<sub>Takım rengi: #e35232</sub>
+
+</div>
